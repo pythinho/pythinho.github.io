@@ -19,6 +19,12 @@
                 background-color: darkblue;
             }
         }
+        #cc{
+            position: fixed;
+            top: 80%;
+            left: 10px;
+            font-size: 30pt;
+        }
         #cheg{
             
             width: 20px;
