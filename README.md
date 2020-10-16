@@ -1,4 +1,4 @@
-# https://pythinho.github.io
+# https://pythinho.github.io/game
 
 # game_using_javascript
 
